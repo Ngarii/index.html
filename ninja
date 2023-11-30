@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en" style="background-color:purple;"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Game Room</title> 
+ <style type="text/css" id="dcoder_stylesheet">hr {
+  height: 20px;
+  border: none;
+  position: relative;
+  background: #eaeaea;
+}
+
+hr::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -10px;
+  width: 100%;
+  height: 30px;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' height='100%25' width='100%25'><path d='M0 20 Q 25 0, 50 20 T 100 20 L 100 100 L 0 100 Z' fill='%234a7c59'/></svg>");
+  background-repeat: repeat-x;
+}</style></head> 
+ <body> <imag src="https://pbs.twimg.com/profile_banners/1479756798383042562/1692171154/1080x360"></imag> 
+  <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+        }
+
+        .welcome-note {
+            margin-top: 50px;
+            font-size: 1.2em;
+            color: #333;
+        }
+
+        .games-room {
+            margin-top: 20px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 10px;
+        }
+    </style> 
+  <h1 style="color:white;background-color:black;">- Games Room -</h1> 
+  <p style="color: blue; font-size: 18px; font-family: 'Arial', sans-serif; text-align: center;">No one ever won a game by resigning</p> 
+  <img src="https://pbs.twimg.com/profile_banners/1479756798383042562/1692171154/1080x360"> 
+  <p class="welcome-note" style="color:white;background-color:indigo;">Step into a realm of entertainment and skills</p> <!--NINJAA---> 
+  <img src="https://as1.ftcdn.net/v2/jpg/01/03/52/50/1000_F_103525032_W42TptuWUryJzUHNSvQyxkjePR7XidM4.jpg"> 
+  <div class="games-room"> 
+   <h2 style="color:brown;">Games Available:</h2> 
+   <hr> 
+   <p>- Pool Table 🎱<br> <b>Don't use more power than you can control.</b></p> 
+   <img src="https://media.gettyimages.com/id/952092374/photo/billiards-balls.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=jbEYoseMu1lP5MhamYogNuN5p2TCGHzSOfk5aP33PNU=" alt="Pool Table Image"> 
+   <p><strong style="Yellow">Eight-ball:</strong> 8-ball is a discipline of pool played on a billiard table with six pockets, cue sticks, and sixteen billiard balls (a white ball and fifteen pool balls). The pool balls include seven solid-colored balls numbered <b>1 through 7</b>, seven striped balls <b>numbered 9 through 15</b>, and the <b>black 8 ball</b>. To begin the game a player breaks the balls with a shot, if any balls gets in the pocket the player is signed in that group of solid or striped balls. The mission is to <b>pocket all the assigned balls</b> then <strong>8-ball in a "called" pocket</strong>.Game over</p> 
+   <hr> 
+   <p>- Dartboard🎯 <br> <b>I just need to build myself up and get myself in the right place and if I do that I'm going to play great darts all the time.</b></p> 
+   <img src="https://media.istockphoto.com/id/502134435/photo/dart-board.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=3DOa0j5aOrCPn2h-1SVGPhT6ehTAxSvvX7le5rY4Bm0=" alt="Dartboard Image"> 
+   <p><strong>NINJA'ONE</strong> Dart hosts the fallowing game and how they are played</p> 
+   <img src="https://www.darting.com/RapidCat/WebPageImages/1121/1295//01_games.jpg"> 
+   <p><em style="color:blue;">Number of Players:</em> Any number of players may play, but normally two. Marks are <strong>301 or 501</strong></p> 
+   <div> 
+    <p><em style="color:blue;">How to play:</em>Each player starts with <strong>301</strong> points. The goal for each player is to reach zero, exactly, by subtracting the amount they score in a turn from the amount they had left from the previous turn. The player cannot start subtracting until they <b>double in</b> or hit the <b>bulls eye</b>. Once the double is hit or bulls eye, then all scores will count with a mean score of <strong>51</strong>. The first player to get to a 100 marks from 301 dosent have to hit a mean of 51 but any score hit will be subtracted. To end the game, the player must also <b>double out </b> (If they have 32 left, then they will need to hit a double 16 to win. If they then hit a single sixteen, leaving 16, their next target would be a double 8. If they hit more points than they have left, then they have busted.Throw again.</p> 
+   </div> 
+   <div> 
+    <p><strong>501</strong><br>This game is generally played as a team event, though we also play it in our single events. All players start with 501 points. Unlike 301, <b>you do not have to double-in</b>, but can start on <b>any number</b>. Each player subtracts the amount they score from the amount they have left. To win, like 301 above, the player will need to <b>double-out</b> to reach zero.</p> 
+   </div> 
+   <img src="https://www.darting.com/RapidCat/WebPageImages/1121/1297//killer.jpg"> 
+   <p><em style="color:red;">Number of Players:</em> Killer is most fun with three or more players.<br> </p> 
+   <div> 
+    <p><em style="color:red;">Play:</em> A player throws one dart with the "opposite" hand. (right-handers throw left-handed) to determine randomly his or her own number(1-numbers for 3-lifes or 3-numbers for 1-life each). If a player misses the dartboard or hits a number already taken, he or she throws again. </p> 
+   </div> 
+   <div> 
+    <p> <em style="color:red;">Rules of the Game:</em> Each player first hit the double of his or her own number. When this is acheived, the player is known as a "killer" and a <strong>K</strong> is placed after his name on the scoreboard.After becoming a killer, a player begins aiming for the doubles of opponents' numbers. If a killer hits his or her own double by mistake, the killer loses one live. <b>To kill an opponent fast hit three doubles.</b> </p> 
+   </div> 
+   <p></p> 
+   <div> 
+    <img src="https://www.darting.com/RapidCat/WebPageImages/1121/1301//roundtheworld.jpg"> 
+    <p><em style="color:green;">Number of Players:</em> Two players </p> 
+   </div> 
+   <div> 
+    <p> <em style="color:green;">Darts:</em> Three each</p> 
+   </div> 
+   <div> 
+    <p><em style="color:green;">Rules of Play:</em> This is easy game, be the first player to hit every number on the dartboard from 1-20.Any part of the number - single, double or triple - counts. The numbers must be hit in order, and players alternate after three throws. If a player cannot pass a certain number, he must hit it in order to advance to the next number on the board. </p> 
+   </div> 
+   <hr> 
+   <p>- Chess board♟️<br> <b>“Chess is a board game for two players, called White and Black, each controlling an army of chess pieces, with the objective to checkmate the opponent's king.”</b></p> 
+   <img src="https://skywave.co.ke/wp-content/uploads/2023/06/chess-board.jpg"> 
+   <p><em style="color:brown;">Setup:</em>The board is setup as shown above.</p> 
+   <p><em style="color:brown;">Turns:</em>White always moves first,</p> 
+   <p><em style="color:brown;">Taking Pieces:</em> Players take pieces when they encounter an opponent in their movement path. Players cannot take or move through their own pieces.</p> 
+   <p><em style="color:brown;">Pieces:</em><strong> PAWN</strong> only move forward. On the first move a pawn can move one or two spaces, every subsequent move can only be one space. Pawns move diagonally to take opponents. <b>Pawn Promotion:</b> If a pawn reaches the opposite side of the board, it is promoted to a higher piece (except king). There is no limit to how many pawns can be promoted.</p> 
+   <p> <strong>ROOK:-</strong> Rooks move in a continuous line forwards, backwards and side-to-side. </p> 
+   <p> <strong>KNIGHTS:-</strong>Knights are the only pieces that "jump" off the board. Unlike other pieces they are not blocked if there are pieces between them and their destination square. To make it easier to remember how a knight moves think of an L. Two spaces in a direction forward, backward or side-to-side, and one space at a right turn.</p> 
+   <p><strong>BISHOP:-</strong>Bishops move in continuous diagonal lines in any direction. </p> 
+   <p><strong>QUEEN:-</strong>The queen moves in continuous diagonal and straight lines. Forward, backward and side-to-side. </p> 
+   <p><strong>KING:-</strong>The king can move in any direction, one square at a time. A king cannot move to a square that is under attack by the opponent. </p> 
+   <div class="age-restriction"> 
+    <p style="background-color:orange;">Please note that access to <strong>NINJA'ONE</strong> is for individuals <b>aged 18</b> and above.</p> 
+   </div> <!--NINJAA---> 
+   <img src="https://pbs.twimg.com/profile_images/1726356846112321536/TTcvWHWZ.jpg"> 
+   <p style="color:violet;">Enjoy the chill music as you immerse yourself in the gaming experience.</p> 
+   <div> 
+    <audio controls>
+  <source src="https://www.dropbox.com/s/7euntcaptnrjeor/Blazing.mp3?raw=1" type="audio/mpeg">
+</audio>
+   </div> 
+   <p>Contact us or view our time lines:</p> 
+   <div> 
+    <p>click:- <a href="https://wa.me/message/FK53KBUIHP6MI1">NINJA'ONE.whatsup</a> </p> 
+   </div> 
+   <div> 
+    <p>click:- <a href="https://x.com/Chombaninja?t=TnyMJu36CJoEzuZLRRQwgg&amp;s=35">NINJA'ONE.X</a> </p> 
+   </div> 
+   <hr class="fancyline"> 
+   <div> <em style="color:gray;">Player:-</em>001 
+    <p>This player is best in all games:-Dart🎯,Pool🎱 and Chess♟️. He has the crown👑.</p> 
+    <p>click:- <a href="https://x.com/Chombaninja/status/1727359971812364559?t=mPdT3M1YAPgXAj0eQAVJ_Q&amp;s=35">🥷NINJAA🤴</a> </p> 
+   </div> 
+  </div> 
+ 
+</body></html>ml>
